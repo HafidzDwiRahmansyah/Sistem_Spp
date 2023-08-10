@@ -1,0 +1,32 @@
+C:\Users\FEBRI ARSIADI\AppData\Local\Temporary Projects\sistem pembayaran spp\bin\Debug\sistem pembayaran spp.exe.config
+C:\Users\FEBRI ARSIADI\AppData\Local\Temporary Projects\sistem pembayaran spp\bin\Debug\sistem pembayaran spp.exe
+C:\Users\FEBRI ARSIADI\AppData\Local\Temporary Projects\sistem pembayaran spp\bin\Debug\sistem pembayaran spp.pdb
+C:\Users\FEBRI ARSIADI\AppData\Local\Temporary Projects\sistem pembayaran spp\bin\Debug\sistem pembayaran spp.xml
+C:\Users\FEBRI ARSIADI\AppData\Local\Temporary Projects\sistem pembayaran spp\obj\Debug\sistem_pembayaran_spp.Form1.resources
+C:\Users\FEBRI ARSIADI\AppData\Local\Temporary Projects\sistem pembayaran spp\obj\Debug\sistem_pembayaran_spp.Resources.resources
+C:\Users\FEBRI ARSIADI\AppData\Local\Temporary Projects\sistem pembayaran spp\obj\Debug\sistem pembayaran spp.vbproj.GenerateResource.Cache
+C:\Users\FEBRI ARSIADI\AppData\Local\Temporary Projects\sistem pembayaran spp\obj\Debug\sistem pembayaran spp.exe
+C:\Users\FEBRI ARSIADI\AppData\Local\Temporary Projects\sistem pembayaran spp\obj\Debug\sistem pembayaran spp.xml
+C:\Users\FEBRI ARSIADI\AppData\Local\Temporary Projects\sistem pembayaran spp\obj\Debug\sistem pembayaran spp.pdb
+C:\Users\FEBRI ARSIADI\AppData\Local\Temporary Projects\sistem pembayaran spp\obj\Debug\sistem_pembayaran_spp.Form2.resources
+C:\Users\FEBRI ARSIADI\Documents\Visual Studio 2012\Projects\Spp_X_RPL\Spp_X_RPL\sistem pembayaran spp\sistem pembayaran spp\bin\Debug\sistem pembayaran spp.exe.config
+C:\Users\FEBRI ARSIADI\Documents\Visual Studio 2012\Projects\Spp_X_RPL\Spp_X_RPL\sistem pembayaran spp\sistem pembayaran spp\obj\Debug\sistem pembayaran spp.exe
+C:\Users\FEBRI ARSIADI\Documents\Visual Studio 2012\Projects\Spp_X_RPL\Spp_X_RPL\sistem pembayaran spp\sistem pembayaran spp\obj\Debug\sistem pembayaran spp.xml
+C:\Users\FEBRI ARSIADI\Documents\Visual Studio 2012\Projects\Spp_X_RPL\Spp_X_RPL\sistem pembayaran spp\sistem pembayaran spp\obj\Debug\sistem pembayaran spp.pdb
+C:\Users\FEBRI ARSIADI\Documents\Visual Studio 2012\Projects\Spp_X_RPL\Spp_X_RPL\sistem pembayaran spp\sistem pembayaran spp\bin\Debug\sistem pembayaran spp.exe
+C:\Users\FEBRI ARSIADI\Documents\Visual Studio 2012\Projects\Spp_X_RPL\Spp_X_RPL\sistem pembayaran spp\sistem pembayaran spp\bin\Debug\sistem pembayaran spp.pdb
+C:\Users\FEBRI ARSIADI\Documents\Visual Studio 2012\Projects\Spp_X_RPL\Spp_X_RPL\sistem pembayaran spp\sistem pembayaran spp\bin\Debug\sistem pembayaran spp.xml
+C:\Users\FEBRI ARSIADI\Documents\Visual Studio 2012\Projects\Spp_X_RPL\Spp_X_RPL\sistem pembayaran spp\sistem pembayaran spp\obj\Debug\sistem_pembayaran_spp.Form1.resources
+C:\Users\FEBRI ARSIADI\Documents\Visual Studio 2012\Projects\Spp_X_RPL\Spp_X_RPL\sistem pembayaran spp\sistem pembayaran spp\obj\Debug\sistem_pembayaran_spp.Form2.resources
+C:\Users\FEBRI ARSIADI\Documents\Visual Studio 2012\Projects\Spp_X_RPL\Spp_X_RPL\sistem pembayaran spp\sistem pembayaran spp\obj\Debug\sistem_pembayaran_spp.Resources.resources
+C:\Users\FEBRI ARSIADI\Documents\Visual Studio 2012\Projects\Spp_X_RPL\Spp_X_RPL\sistem pembayaran spp\sistem pembayaran spp\obj\Debug\sistem pembayaran spp.vbproj.GenerateResource.Cache
+C:\Users\FEBRI ARSIADI\Documents\Visual Studio 2012\Projects\Spp_X_RPL\Spp_X_RPL\sistem pembayaran spp\sistem pembayaran spp\obj\Debug\sistem_pembayaran_spp.Form3.resources
+C:\Users\FEBRI ARSIADI\Documents\Visual Studio 2012\Projects\Spp_X_RPL\Spp_X_RPL\sistem pembayaran spp\sistem pembayaran spp\obj\Debug\sistem_pembayaran_spp.Form4.resources
+C:\Users\FEBRI ARSIADI\Documents\Visual Studio 2012\Projects\Spp_X_RPL\Spp_X_RPL\sistem pembayaran spp\sistem pembayaran spp\obj\Debug\sistem_pembayaran_spp.Form5.resources
+C:\Users\FEBRI ARSIADI\Documents\Visual Studio 2012\Projects\Spp_X_RPL\Spp_X_RPL\sistem pembayaran spp\sistem pembayaran spp\obj\Debug\sistem_pembayaran_spp.Form6.resources
+C:\Users\FEBRI ARSIADI\Documents\Visual Studio 2012\Projects\Spp_X_RPL\Spp_X_RPL\sistem pembayaran spp\sistem pembayaran spp\obj\Debug\sistem pembayaran spp.vbprojResolveAssemblyReference.cache
+C:\Users\FEBRI ARSIADI\Documents\Visual Studio 2012\Projects\Spp_X_RPL\Spp_X_RPL\sistem pembayaran spp\sistem pembayaran spp\obj\Debug\sistem_pembayaran_spp.Form7.resources
+C:\Users\FEBRI ARSIADI\OneDrive\Desktop\downloads\sistem pembayaran spp\sistem pembayaran spp\sistem pembayaran spp\bin\Debug\sistem pembayaran spp.exe.config
+C:\Users\FEBRI ARSIADI\OneDrive\Desktop\downloads\sistem pembayaran spp\sistem pembayaran spp\sistem pembayaran spp\obj\Debug\sistem pembayaran spp.exe
+C:\Users\FEBRI ARSIADI\OneDrive\Desktop\downloads\sistem pembayaran spp\sistem pembayaran spp\sistem pembayaran spp\obj\Debug\sistem pembayaran spp.xml
+C:\Users\FEBRI ARSIADI\OneDrive\Desktop\downloads\sistem pembayaran spp\sistem pembayaran spp\sistem pembayaran spp\obj\Debug\sistem pembayaran spp.pdb
